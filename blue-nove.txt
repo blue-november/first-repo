@@ -1,1 +1,2 @@
-from blue nov
+from blue nov 
+blue nov added something
